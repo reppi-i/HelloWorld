@@ -1,2 +1,2 @@
 puts "Hello World"
-puts "Sun"
+puts "Sunday"
